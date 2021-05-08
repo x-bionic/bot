@@ -1,0 +1,6 @@
+sqlite3-api==1.0.5
+pyTelegramBotAPI==3.7.1
+telebot
+datetime
+requests
+configparser
